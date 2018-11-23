@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="HackerRank">
+      <UniqueIdentifier>{1335e3d3-ace1-4fd0-abcf-7a49f05ae481}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Baekjoon">
+      <UniqueIdentifier>{37595714-1888-4e2e-a80e-04e512902a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CodinGame">
+      <UniqueIdentifier>{8889100e-2fd1-49e3-bc4f-6aac196485ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HackerRank\InterviewPack">
+      <UniqueIdentifier>{3f6c481a-5aaa-46b0-8697-0886bd458c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HackerRank\InterviewPack\Warm-up">
+      <UniqueIdentifier>{4cbe37dd-f60f-46de-87f2-3207578199a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SockMerchant.cpp">
+      <Filter>HackerRank\InterviewPack\Warm-up</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
