@@ -16,6 +16,12 @@
     <Filter Include="HackerRank\InterviewPack\Warm-up">
       <UniqueIdentifier>{4cbe37dd-f60f-46de-87f2-3207578199a4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="HackerRank\InterviewPack\Arrays">
+      <UniqueIdentifier>{77aaa83e-b195-4a07-a681-e410163e108e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HackerRank\InterviewPack\DictionariesAndHashmaps">
+      <UniqueIdentifier>{344ab60d-0497-4c6e-8e4d-e8af6e2accda}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SockMerchant.cpp">
@@ -29,6 +35,21 @@
     </ClCompile>
     <ClCompile Include="RepeatedString.cpp">
       <Filter>HackerRank\InterviewPack\Warm-up</Filter>
+    </ClCompile>
+    <ClCompile Include="2DArray-DS.cpp">
+      <Filter>HackerRank\InterviewPack\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftRotation.cpp">
+      <Filter>HackerRank\InterviewPack\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="NextYearChaos.cpp">
+      <Filter>HackerRank\InterviewPack\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="RansomNote.cpp">
+      <Filter>HackerRank\InterviewPack\DictionariesAndHashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="SherlockAndAnagrams.cpp">
+      <Filter>HackerRank\InterviewPack\DictionariesAndHashmaps</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
