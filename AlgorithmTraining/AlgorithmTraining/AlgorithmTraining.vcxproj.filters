@@ -19,8 +19,14 @@
     <Filter Include="HackerRank\InterviewPack\Arrays">
       <UniqueIdentifier>{77aaa83e-b195-4a07-a681-e410163e108e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="HackerRank\InterviewPack\DictionariesAndHashmaps">
+    <Filter Include="HackerRank\InterviewPack\Sorting">
+      <UniqueIdentifier>{d9a22cfe-56f7-425f-bc54-ed3b3b371eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HackerRank\InterviewPack\DictionariesandHashmaps">
       <UniqueIdentifier>{344ab60d-0497-4c6e-8e4d-e8af6e2accda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HackerRank\InterviewPack\StringManipulation">
+      <UniqueIdentifier>{de20ea02-c4dc-4c25-800d-e9d61cccac10}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -46,10 +52,34 @@
       <Filter>HackerRank\InterviewPack\Arrays</Filter>
     </ClCompile>
     <ClCompile Include="RansomNote.cpp">
-      <Filter>HackerRank\InterviewPack\DictionariesAndHashmaps</Filter>
+      <Filter>HackerRank\InterviewPack\DictionariesandHashmaps</Filter>
     </ClCompile>
     <ClCompile Include="SherlockAndAnagrams.cpp">
-      <Filter>HackerRank\InterviewPack\DictionariesAndHashmaps</Filter>
+      <Filter>HackerRank\InterviewPack\DictionariesandHashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoStrings.cpp">
+      <Filter>HackerRank\InterviewPack\DictionariesandHashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>HackerRank\InterviewPack\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="MarkandToys.cpp">
+      <Filter>HackerRank\InterviewPack\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Comparator.cpp">
+      <Filter>HackerRank\InterviewPack\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingAnagrams.cpp">
+      <Filter>HackerRank\InterviewPack\StringManipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="AlternatingCharacters.cpp">
+      <Filter>HackerRank\InterviewPack\StringManipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="SherlockandtheValidString.cpp">
+      <Filter>HackerRank\InterviewPack\StringManipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialPalindromeAgain.cpp">
+      <Filter>HackerRank\InterviewPack\StringManipulation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
